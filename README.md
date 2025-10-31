@@ -76,7 +76,9 @@ python app.py
 
 6. Access the app
 
-http://127.0.0.1:5000/
+## 🖥️ Access the App
+Run the application locally by executing `python app.py`.  
+Open your browser and go to: `http://127.0.0.1:5000/`
 
 
 # 🧩 Core Logic
